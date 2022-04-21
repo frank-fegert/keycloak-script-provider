@@ -1,0 +1,9 @@
+{
+    "mappers": [
+        {
+            "name": "Role Attribute Mapper - policy",
+            "fileName": "role_attribute_mapper_policy.js",
+            "description": "Maps the 'policy' role attribute to the OIDC token of a user"
+        }
+    ]
+}
