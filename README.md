@@ -38,7 +38,7 @@ restart the _Keycloak_ application.
 
 After this the different _mapper_ dialogs within whe WebUI of the _Keycloak_ application show an additional entry `Script Mapper` in the drop-down menu `Mapper Type`. If the `Script Mapper` entry is selected, a editor dialog will be presented which can be used for the development and testing of the _script mapper_.
 
-*Attention:* After finishing the development and testing of the _script mapper_ the parameter `feature.upload_scripts` shown above should be disabled again, since it poses a security risk!
+**Attention:** After finishing the development and testing of the _script mapper_ the parameter `feature.upload_scripts` shown above should be disabled again, since it poses a security risk!
 
 ### Deployment
 
